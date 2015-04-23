@@ -10,7 +10,10 @@ namespace git3
     {
         static void Main(string[] args)
         {
+            string name = Console.ReadLine();
+            
             Console.WriteLine("Howdy");
+            Console.WriteLine(name);
             Console.WriteLine("Bye bye");
             Console.ReadLine();
         }
