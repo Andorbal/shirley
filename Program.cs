@@ -11,7 +11,7 @@ namespace git3
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
-            Console.WriteLine("Goodbye");
+            Console.WriteLine("Bye bye");
             Console.ReadLine();
         }
     }
