@@ -13,7 +13,7 @@ namespace git3
             Console.Write("Enter your name: ");
             string name = Console.ReadLine();
             
-            Console.WriteLine("Howdy");
+            Console.WriteLine("Howdy!!");
             Console.WriteLine(name);
             Console.WriteLine("Bye bye");
             Console.ReadLine();
